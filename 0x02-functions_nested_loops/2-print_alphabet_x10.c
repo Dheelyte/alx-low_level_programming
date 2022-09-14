@@ -23,4 +23,5 @@ void print_alphabet_x10(void)
 		};
 		n++;
 	}
+	return (0);
 }
