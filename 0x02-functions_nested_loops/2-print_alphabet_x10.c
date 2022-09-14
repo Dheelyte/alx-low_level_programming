@@ -12,7 +12,7 @@ void print_alphabet_x10(void)
 	int n;
 
 	a = 'a';
-	a = 0;
+	n = 0;
 
 	while (n < 10)
 	{
@@ -23,5 +23,4 @@ void print_alphabet_x10(void)
 		};
 		n++;
 	}
-	return (0);
 }
