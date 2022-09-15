@@ -2,15 +2,11 @@
 
 /**
  * _isupper - Entry point
- * @c - character to be checked
+ * @c: character to be checked
  * Return: 0
  */
 
 int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
-	{
-		return (1);
-	}
-	return (0);
+	return (c >= 'A' && c <= 'Z');
 }
