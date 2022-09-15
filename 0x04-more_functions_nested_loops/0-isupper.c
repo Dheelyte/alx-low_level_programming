@@ -2,6 +2,7 @@
 
 /**
  * _isupper - Entry point
+ * @c - character to be checked
  * Return: 0
  */
 
