@@ -18,6 +18,6 @@ char *_strncpy(char *dest, char *src, int n)
 		j++;
 	if (j < n)
 		dest = src;
-	
+
 	return (dest);
 }
