@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * *_strcat - Entry point
+ * *_strncat - Entry point
  * @dest: destination string
  * @src: string to append
+ * @n: number of byte(s)
  * Return: pointer to the resulting string
  */
 
